@@ -1,0 +1,6 @@
+file 'WhatsApp Image 2025-09-26 at 15.03.42_20b747d0.jpg'
+duration 1
+file 'passport-size-photo.jpg'
+duration 1
+file 'dc-nightwing-0j.jpg'
+duration 1
